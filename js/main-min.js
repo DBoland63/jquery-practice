@@ -1,0 +1,1 @@
+$.noConflict(),jQuery(document).ready((function(t){t("#button1").click((function(){t("p").text("jQuery is still working!")}))})),jQuery(document).ready((function(t){t("#button2").click((function(){t("p").text("This is a paragraph."),t(".david").text("David jQuery is still working!")}))}));
